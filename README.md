@@ -11,7 +11,6 @@ Update the image URLs in `docker.sh` and `docker-push-gar.sh`
 - Network
 - Subnet
 - Service Account with Storage Admin and GAR Admin Roles
-  - Create a GAR Repository 
 - VM
   - Install Docker in the VM
   - Pull image from Google Artifact Registry
